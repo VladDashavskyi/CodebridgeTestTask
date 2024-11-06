@@ -1,0 +1,58 @@
+[
+
+  {
+    "id": 1,
+
+    "name": "Neo",
+
+    "color": "red&amber",
+
+    "tail_length": 22,
+
+    "weight": 32
+
+  },
+
+  {
+
+    "id": 2,
+
+    "name": "Jessy",
+
+    "color": "black&white",
+
+    "tail_length": 7,
+
+    "weight": 14
+
+  },
+
+  {
+
+    "id": 3,
+
+    "name": "Doggy",
+
+    "color": "black",
+
+    "tail_length": 127,
+
+    "weight": 34
+
+  },
+
+  {
+
+    "id": 4,
+
+    "name": "Jack",
+
+    "color": "white",
+
+    "tail_length": 78,
+
+    "weight": 44
+
+  }
+
+]
